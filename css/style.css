@@ -1,11 +1,11 @@
 @charset "UTF-8";
 
 /* BEGIN FONTS*/
-/*
+
 @font-face {
   font-family: "Lato";
   src: url(/fonts/Lato/Lato-Regular.ttf);
-}*/
+}
 /* END FONTS*/
 
 /* BEGIN NORMALIZE*/
@@ -787,10 +787,14 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
   }
 
   .form-row .title {
-    width: 80%;
+    text-align: center;
+    font-weight: 800;
+    letter-spacing: -2%;
+    font-size: 36px;
   }
 
   .form-row .buttons {
+    margin-top: 5%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
