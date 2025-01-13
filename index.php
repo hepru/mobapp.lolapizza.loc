@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru-RU">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Мобильное приложение Lolapizza</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	<meta http-equiv="Cache-Control" content="max-age=3600, must-revalidate"/>
+    <link href="css/style.css?v=1.036" rel="stylesheet">
+    <?/*<link href="css/jquery-ui.css?v=1.0" rel="stylesheet">*/?>
+</head>
+<body>
+<div class="container">
+    <div class="page-cart desktop">
+        <img src="/img/banner.png?ver=1.01" style="position: absolute;top:0px;left: 0px">
+        <div class="page-cart__item">
+            <div class="form-row">
+                <div class="block_left">
+                    <div class="title">
+                        <img src="/img/title.png">
+                    </div>
+                    <div class="buttons">
+                        <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
+                        <a href="https://play.google.com/store/apps/details?id=ru.lpizza.app&pcampaignid=web_share"><img src="/img/googleplay.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="page-cart mobile">
+        <img src="/img/banner_mobile.png?ver=1.01" style="position: absolute;top:0px;left: 0px">
+        <div class="page-cart__item">
+            <div class="form-row">
+                <div class="block">
+                    <div class="title">
+                        <img src="/img/title_mobile.png?ver=1.01">
+                    </div>
+                    <div class="buttons">
+                        <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
+                        <a href="https://play.google.com/store/apps/details?id=ru.lpizza.app&pcampaignid=web_share"><img src="/img/googleplay.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<?/*<div class="back_lay"></div>
+<div class="lds-ring_wrap">
+<div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+</div>
+<script src="js/libs.min.js?v=1.01"></script>
+<script src="js/jquery.validate.min.js?v=1.01"></script>
+<script src="js/jquery.mask.min.js?ver=1.01"></script>
+<script src="js/main.js?v=1.04"></script>*/?>
+</body>
+</html>
