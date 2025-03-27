@@ -7,8 +7,8 @@
   src: url(/fonts/Lato/Lato-Regular.ttf);
 }
 @font-face {
-  font-family: "LatoBold";
-  src: url(/fonts/Lato/Lato-Bold.ttf);
+  font-family: "LatoExtraBold";
+  src: url(/fonts/Lato/Lato-ExtraBold.ttf);
 }
 /* END FONTS*/
 
@@ -731,7 +731,7 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
 
 .form-row .title {
   max-width: 90%;
-  font-family: "LatoBold", sans-serif;
+  font-family: "LatoExtraBold", sans-serif;
 }
 
 .form-row .buttons {
