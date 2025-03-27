@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta http-equiv="Cache-Control" content="max-age=3600, must-revalidate"/>
-    <link href="css/style.css?v=1.0371111" rel="stylesheet">
+    <link href="css/style.css?v=1.0372" rel="stylesheet">
     <?/*<link href="css/jquery-ui.css?v=1.0" rel="stylesheet">*/?>
 </head>
 <body>
@@ -18,7 +18,8 @@
             <div class="form-row">
                 <div class="block_left">
                     <div class="title">
-                        <img src="/img/title.png">
+                        Забирай целую пиццу в подарок в нашем приложении
+                        <!--<img src="/img/title.png">-->
                     </div>
                     <div class="buttons">
                         <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
@@ -34,7 +35,8 @@
             <div class="form-row">
                 <div class="block">
                     <div class="title">
-                        <img src="/img/title_mobile.png">
+                        Забирай целую пиццу в подарок в нашем приложении
+                        <!--<img src="/img/title_mobile.png">-->
                     </div>
                     <div class="buttons">
                         <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
