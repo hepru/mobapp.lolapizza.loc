@@ -807,7 +807,7 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
     display: flex;
   }
   .page-cart__item {
-    top: 25%;
+    top: 23%;
   }
   .form-row {
     margin: unset;
@@ -839,7 +839,7 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
   }
 
   .form-row .buttons {
-    margin-top: 5%;
+    margin-top: 3%;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
         -ms-flex-direction: column;
@@ -847,7 +847,7 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
     -webkit-box-align: center;
         -ms-flex-align: center;
             align-items: center;
-    width: 70%;
+    width: 60%;
   }
   .form-row .buttons a {
     margin-top: 10px;
@@ -862,20 +862,12 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
   }
 }
 
-/*@media screen and (max-width: 360px) {
-  .page-cart__item {
-    top: 24%;
-  }
-}
-
-@media screen and (max-width: 340px) {
+@media screen and (max-width: 360px) {
   .page-cart__item {
     top: 23%;
   }
-}
-
-@media screen and (max-width: 320px) {
-  .page-cart__item {
-    top: 22%;
+  .form-row .buttons {
+    margin-top: 2%;
+    width: 50%;
   }
-}*/
+}
