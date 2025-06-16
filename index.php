@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta http-equiv="Cache-Control" content="max-age=3600, must-revalidate"/>
-    <link href="css/style.css?v=1.0377" rel="stylesheet">
+    <link href="css/style.css?v=1.0379" rel="stylesheet">
     <?/*<link href="css/jquery-ui.css?v=1.0" rel="stylesheet">*/?>
 </head>
 <body>

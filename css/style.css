@@ -864,10 +864,13 @@ button::-moz-focus-inner, [type="button"]::-moz-focus-inner, [type="reset"]::-mo
 
 @media screen and (max-width: 360px) {
   .page-cart__item {
-    top: 23%;
+    top: 22%;
   }
   .form-row .buttons {
     margin-top: 2%;
     width: 50%;
   }
+   .form-row .title {
+    font-size: 28px;
+   }
 }
