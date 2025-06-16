@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 	<meta http-equiv="Cache-Control" content="max-age=3600, must-revalidate"/>
-    <link href="css/style.css?v=1.0375" rel="stylesheet">
+    <link href="css/style.css?v=1.0376" rel="stylesheet">
     <?/*<link href="css/jquery-ui.css?v=1.0" rel="stylesheet">*/?>
 </head>
 <body>
@@ -23,7 +23,8 @@
                     </div>
                     <div class="buttons">
                         <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
-                        <a href="https://play.google.com/store/apps/details?id=ru.lpizza.app&pcampaignid=web_share"><img src="/img/googleplay.png"></a>
+                        <a href="https://api.converzilla.io/app/install/6618e17659bb03fd070475a2"><img src="/img/googleplay.png"></a>
+                        <a href="https://www.rustore.ru/catalog/app/ru.lpizza.app"><img src="/img/rustore.png"></a>
                     </div>
                 </div>
             </div>
@@ -40,7 +41,8 @@
                     </div>
                     <div class="buttons">
                         <a href="https://apps.apple.com/ru/app/ллпицца/id6739507471"><img src="/img/appstore.png"></a>
-                        <a href="https://play.google.com/store/apps/details?id=ru.lpizza.app&pcampaignid=web_share"><img src="/img/googleplay.png"></a>
+                        <a href="https://api.converzilla.io/app/install/6618e17659bb03fd070475a2"><img src="/img/googleplay.png"></a>
+                        <a href="https://www.rustore.ru/catalog/app/ru.lpizza.app"><img src="/img/rustore.png"></a>
                     </div>
                 </div>
             </div>
